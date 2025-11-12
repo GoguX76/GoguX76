@@ -44,4 +44,4 @@ Disfruto aprender, experimentar con nuevas herramientas y crear proyectos que ap
 
 ---
 
-<h3 align="center">✨ "Aprender, crear y mejorar — un commit a la vez." ✨</h3>
+<h3 align="center">✨ "Siempre adelante y con el mejor de los esfuerzos." ✨</h3>
