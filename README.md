@@ -33,8 +33,8 @@ Disfruto aprender, experimentar con nuevas herramientas y crear proyectos que ap
 ---
 
 ### 🧩 Algunos de mis proyectos
-🔸 **[CalGrow](#)** – App móvil sobre monitoreo agrícola (Flutter / Dart)  
-🔸 **[Proyectos académicos y experimentales](#)** – explorando HTML, JS y APIs  
+🔸 **[Midnight Phonk Movil](https://github.com/GoguX76/Midnight-Phonk-Movil.git)** – App móvil para la creación y venta de instrumentos Phonk (Kotlin)
+🔸 **[Midnight Phonk](https://github.com/GoguX76/FSII-Project-React.git)** – Aplicación Web para la creación y venta de instrumentos Phonk (React, JavaScript, CSS)
 
 ---
 
