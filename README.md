@@ -39,7 +39,7 @@ Disfruto aprender, experimentar con nuevas herramientas y crear proyectos que ap
 ---
 
 ### 🌐 Conéctate conmigo
-📧 **Correo:** *[elsebad12godoy@gmail.com]*  
+📧 **Correo:** *[Correo Perosnal](elseba12godoy@gmail.com)*  
 💻 **GitHub:** [github.com/GoguX76](https://github.com/GoguX76)  
 
 ---
