@@ -34,15 +34,12 @@ Disfruto aprender, experimentar con nuevas herramientas y crear proyectos que ap
 
 ### 🧩 Algunos de mis proyectos
 🔸 **[CalGrow](#)** – App móvil sobre monitoreo agrícola (Flutter / Dart)  
-🔸 **[Edutech Backend](#)** – Sistema educativo modular en Java + Spring Boot  
 🔸 **[Proyectos académicos y experimentales](#)** – explorando HTML, JS y APIs  
-
-*(Puedes personalizar los enlaces cuando quieras que apunten a tus repositorios.)*
 
 ---
 
 ### 🌐 Conéctate conmigo
-📧 **Correo:** *[Tu correo si deseas incluirlo]*  
+📧 **Correo:** *[elsebad12godoy@gmail.com]*  
 💻 **GitHub:** [github.com/GoguX76](https://github.com/GoguX76)  
 
 ---
