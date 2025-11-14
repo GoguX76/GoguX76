@@ -34,7 +34,8 @@ Disfruto aprender, experimentar con nuevas herramientas y crear proyectos que ap
 
 ### 🧩 Algunos de mis proyectos
 🔸 **[Midnight Phonk Movil](https://github.com/GoguX76/Midnight-Phonk-Movil.git)** – App móvil para la creación y venta de instrumentos Phonk (Kotlin) <br>
-🔸 **[Midnight Phonk](https://github.com/GoguX76/FSII-Project-React.git)** – Aplicación Web para la creación y venta de instrumentos Phonk (React, JavaScript, CSS)
+🔸 **[Midnight Phonk](https://github.com/GoguX76/FSII-Project-React.git)** – Aplicación Web para la creación y venta de instrumentos Phonk (React, JavaScript, CSS) <br>
+🔸 **[Practica para Bothaton (Actualmente activo)](https://github.com/GoguX76/Bothaton.git)** - Practica para el evento de DuocUC "Bothaton" (Python)
 
 ---
 
