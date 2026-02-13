@@ -36,7 +36,7 @@ Disfruto aprender, experimentar con nuevas herramientas y crear proyectos que ap
 🔸 **[Midnight Phonk Movil](https://github.com/GoguX76/Midnight-Phonk-Movil.git)** – App móvil para la creación y venta de instrumentos Phonk (Kotlin) <br>
 🔸 **[Midnight Phonk](https://github.com/GoguX76/FSII-Project-React.git)** – Aplicación Web para la creación y venta de instrumentos Phonk (React, JavaScript, CSS) <br>
 🔸 **[Telepy](https://github.com/GoguX76/Telepy.git)** - Practica para manejar API REST con Python, con integración a bot de Telegram (Python) <br>
-🔸 **[MovilRoom-Suite](https://github.com/GoguX76/MovilRoom-Suite.git)** - Aplicación web y móvil para la gestión de reservas (React, JavaScript, CSS, Java con Spring Boot, Docker, PostgreSQL, Kotlin)
+🔸 **[Pomodoro Timer](https://github.com/GoguX76/pomodoro-timer)** - Un Timer Pomodoro en Terminal para poder manejar tus tiempos de manera eficiente y sin gastar muchos recursos (Python con Rich)
 
 ---
 
