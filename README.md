@@ -41,8 +41,8 @@ Disfruto aprender, experimentar con nuevas herramientas y crear proyectos que ap
 ---
 
 ### 🌐 Conéctate conmigo
-📧 **Correo:** *[Correo Personal](elseba12godoy@gmail.com)*  
-💻 **GitHub:** [github.com/GoguX76](https://github.com/GoguX76)  
+📧 **Correo:** *[scorgogu.dev@proton.me](mailto:scorgogu.dev@proton.me)*  
+💻 **GitHub:** *[github.com/GoguX76](https://github.com/GoguX76)*  
 
 ---
 
