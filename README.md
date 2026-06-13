@@ -35,7 +35,7 @@ Disfruto aprender, experimentar con nuevas herramientas y crear proyectos que ap
 ### 🧩 Algunos de mis proyectos
 🔸 **[Midnight Phonk Movil](https://github.com/GoguX76/Midnight-Phonk-Movil.git)** – App móvil para la creación y venta de instrumentos Phonk (Kotlin) <br>
 🔸 **[Midnight Phonk](https://github.com/GoguX76/FSII-Project-React.git)** – Aplicación Web para la creación y venta de instrumentos Phonk (React, JavaScript, CSS) <br>
-🔸 **[Telepy](https://github.com/GoguX76/Telepy.git)** - Practica para manejar API REST con Python, con integración a bot de Telegram (Python) <br>
+🔸 **[Rednorte](https://github.com/GoguX76/rednorte.git)** - Aplicación Web para la gestión eficiente de listas de esperas hospitalarias (Astro, Bun & Hono, KrakenD) <br>
 🔸 **[Pomodoro Timer](https://github.com/GoguX76/pomodoro-timer)** - Un Timer Pomodoro en Terminal para poder manejar tus tiempos de manera eficiente y sin gastar muchos recursos (Python con Rich)
 
 ---
