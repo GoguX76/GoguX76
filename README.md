@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Estudiante de <strong>Ingeniería en Informática</strong> en <strong>Duoc UC</strong><br>
-  💡 Apasionado por el <strong>desarrollo backend</strong>, las <strong>aplicaciones móviles</strong> y la <strong>innovación tecnológica</strong>.
+  💡 Apasionado por el <strong>desarrollo fullstack</strong>, las <strong>aplicaciones móviles</strong> y la <strong>innovación tecnológica</strong>.
 </p>
 
 ---
